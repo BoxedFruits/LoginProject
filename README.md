@@ -12,7 +12,7 @@ The mobile app works by talking to a REST API that I made using Nodejs, ExpressJ
 
 
 
-#Write up explaining how the whole system works
+# Write up explaining how the whole system works
 
 
 My plan was to have a login system substitute the searching algorithm. Once you logged in, you would able to see all the salary information.The first problem was being able to connect to a database from my android phone. You obviously cannot use SqlServer natively on the phone. For the purposes of the app it would also not make sense to have a server hosted on the device if it were possible because the user would only need to retrieve their own information. After some research, I found out about (Representational State Transfer) REST Api’s. With REST Api’s, all the requests and transactions between the server and client happen inside certain types of HTTP requests. I first recreated the database in Mysql and also created a new table for passwords hashed with the md5 algorithm along with its corresponding user ID. So, the next question would be how to create a REST API in order to interact with the database.

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdvCompProj</string>
+    <string name="submit">Submit</string>
+
+    <string name="notyet">Website %1$s isn\'t yet available, I\'m working on it, please wait %2$s more days
+    </string>
+
+    <string name="spinner_title">
+    Coming to you live
+    </string>
+</resources>

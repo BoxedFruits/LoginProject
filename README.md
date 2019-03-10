@@ -1,7 +1,7 @@
 
 # LoginProject
 
-This was the final project for CS-332 Advanced Computing. I had already finished the class work early, so I decided tochallenge myself and do something I've never done before. For some reason the thought of doing the project as a mobile app just stuck with me. The task was to connect to a database and calculate the salary after a raise was applied. I had to continually learn new things and adapt when doing this project. If I had to do this project over again, I would make a more concrete plan that I could divide into small parts instead of trying to figure things out everytime I hit an obstacle.
+This was the final project for CS-332 Advanced Computing. I had already finished the class work early, so I decided to challenge myself and do something I've never done before. For some reason the thought of doing the project as a mobile app just stuck with me. The task was to connect to a database and calculate the salary after a raise was applied. I had to continually learn new things and adapt when doing this project. If I had to do this project over again, I would make a more concrete plan that I could divide into small parts instead of trying to figure things out every time I hit an obstacle.
 
 
 
